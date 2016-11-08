@@ -1,0 +1,7 @@
+config.js
+node_modules/*
+public/bower_components/*
+offcamera.log
+t2.js
+test_server.js
+Authentication_Authorization.txt
